@@ -33,4 +33,5 @@ I am studying web accessibility, I am specializing in JS and I plan to learn new
 - I'm kinda crazy about cats :cat2:
 - I think you didn't expect this... but i love programming  ⚡
 - Also, I love training and learning new sports :biking_woman:
-You can reach me out trough [LinkedIn](https://www.linkedin.com/in/nadiamonzon/) :link: I will be pleased to talk.
+
+<p align="left">You can reach me out trough [LinkedIn](https://www.linkedin.com/in/nadiamonzon/) :link: I will be really pleased to talk. :star: </p>
